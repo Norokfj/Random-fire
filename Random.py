@@ -1,1 +1,1 @@
-import MyRandom
+import Paidrandom
